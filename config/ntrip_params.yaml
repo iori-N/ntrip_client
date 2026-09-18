@@ -1,7 +1,7 @@
 ntrip_client_node:
   ros__parameters:
-    ntrip_address: "your.ntrip-server.com"
+    ntrip_address: "ntrip.ales-corp.co.jp"
     ntrip_port: 2101
-    ntrip_username: "your_username"
-    ntrip_password: "your_password"
-    ntrip_mountpoint: "your_mountpoint"
+    ntrip_username: "18ee2ub1"
+    ntrip_password: "bbdn1i"
+    ntrip_mountpoint: "32M7NHS"
